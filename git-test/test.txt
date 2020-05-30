@@ -2,8 +2,11 @@ first
 second
 333
 444
-555
+555master2
 
 666
+<<<<<<< HEAD
 
 master1
+master2
+
