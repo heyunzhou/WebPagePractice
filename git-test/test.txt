@@ -1,6 +1,4 @@
 begin
-branch1 push one
-master in put one
-
-branch1 push one
-branch2 push one
+rebase test1
+rebase test2
+rebase test3
