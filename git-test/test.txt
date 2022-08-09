@@ -5,3 +5,4 @@ rebase test3
 
 
 fetch test
+rebase
